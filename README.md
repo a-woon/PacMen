@@ -1,5 +1,7 @@
 # Pac-men
 
+![Screenshot](/images/PacMen SS.png "Screenshot")
+
 Pac-men exercise
 
 ## Description
@@ -12,7 +14,6 @@ The game will run from your browser when loaded from index.html. Make sure to do
 - Change of PacMan size during movement 
 - Remove PacMan button
 - Option for more coloured PacmMan
-
 
 ### License
 This project is licensed under the [MIT License](LICENSE).
