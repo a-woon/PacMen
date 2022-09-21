@@ -1,6 +1,6 @@
 # Pac-men
 
-![Screenshot](/images/PacMen SS.png "Screenshot")
+![Screenshot](images/PacMen SS.png)
 
 Pac-men exercise
 
