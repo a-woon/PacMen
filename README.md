@@ -1,6 +1,6 @@
 # Pac-men
 
-![Screenshot](images/PacMen SS.png)
+![Screenshot](https://github.com/a-woon/PacMen/blob/bd9e103fd93f0be67e95e6ee5fda7e22532bc4d5/images/PacMen%20SS.png)
 
 Pac-men exercise
 
